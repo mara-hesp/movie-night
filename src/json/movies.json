@@ -1,0 +1,913 @@
+[{
+    "id": 1,
+    "titulo": "Bride Wars",
+    "espaniol": "Guerra de Novias",
+    "anio": 2009,
+    "genero": "Comedia / Romance",
+    "director": "Gary Winnick",
+    "info": "Liv y Emma son dos amigas de la infancia que planifican sus respectivas bodas al mismo tiempo. Sin embargo, lo que parecía que iba a ser una buena idea se convertirá, debido a un malentendido, en una feroz competición.",
+    "cast": [
+        "Kate Hudson",
+        "Anne Hathaway"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMTUyNTg2OTUwN15BMl5BanBnXkFtZTgwNzEzMzg5MTI@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/KBDE4uznmIw",
+    "semana": "sem2"
+},
+{
+    "id": 2,
+    "titulo": "Instant Family",
+    "espaniol": "Familia al Instante",
+    "anio": 2018,
+    "genero": "Comedia / Drama",
+    "director": "Sean Anders",
+    "info": "Pete y Ellie forman una joven pareja que por fin cumple su sueño de tener hijos con la adopción de tres hermanos, Juan, Lita y Lizzy. Sin embargo, ser padres no es tan sencillo como se habían imaginado, sobre todo cuando una de sus hijas es una adolescente rebelde.",
+    "cast": [
+        "Rose Byrne",
+        "Mark Wahlberg"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMTkzMzgzMTc1OF5BMl5BanBnXkFtZTgwNjQ4MzE0NjM@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/lrp-0z9hm8I",
+    "semana": "sem2"
+},
+{
+    "id": 3,
+    "titulo": "Long Shot",
+    "espaniol": "Ni en tus Sueños",
+    "anio": 2019,
+    "genero": "Comedia / Romance",
+    "director": "Jonathan Levine",
+    "info": "Fred Flarsky se reencuentra con su primer amor Charlotte, que ahora es una mujer influyente a nivel mundial. Fred conseguirá conquistarla gracias a su sentido del humor y su visión idealista de la política.",
+    "cast": [
+        "Seth Rogen",
+        "Charlize Theron"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMmE4Mzk0OWQtMDI1OS00NDU3LWI2M2YtNzc1MGMxZGI3ZTE1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/YHmn6GZwS9I",
+    "semana": "sem2"
+},
+{
+    "id": 4,
+    "titulo": "Metal Lords",
+    "espaniol": "Metal Lords",
+    "anio": 2022,
+    "genero": "Comedia / Drama / Música",
+    "director": "Peter Sollett",
+    "info": "Para los inadaptados adolescentes Hunter y Kevin, el camino hacia la gloria es claro: dedicarse al metal, ganar la Batalla de las Bandas y ser adorados como dioses.",
+    "cast": [
+        "Jaeden Martell",
+        "Isis Hainsworth"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BNjJjMzI1ZDctMDhmMy00Nzk2LTg5ZjgtNGIyN2QyNDQwMDU5XkEyXkFqcGdeQXVyMTMyNzMxNTcw._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/dX6MrvvdgEA",
+    "semana": "sem2"
+},
+{
+    "id": 5,
+    "titulo": "Between Two Ferns: The Movie",
+    "espaniol": "Entre dos helechos: La película",
+    "anio": 2019,
+    "genero": "Comedia",
+    "director": "Scott Aukerman",
+    "info": "Sin conciencia de sí mismo y con muchas preguntas incómodas, Zach Galifianakis sale a la carretera para realizar una serie de entrevistas a celebridades con el objetivo de mejorar su reputación.",
+    "cast": [
+        "Zach Galifianakis",
+        "Matthew McConaughey"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BYzgyNzUyZjAtNDRiZS00MjQwLTgzMzQtZThhY2Y3YjFmYTc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/OjljgkCQv5c",
+    "semana": "sem2"
+},
+{
+    "id": 6,
+    "titulo": "Casa de mi Padre",
+    "espaniol": "Casa de mi Padre",
+    "anio": 2012,
+    "genero": "Comedia / Western",
+    "director": "Matt Piedmont",
+    "info": "Raúl, hermano menor de Armando, regresa al rancho de su familia con su hermosa prometida Sonia y promete solucionar los problemas financieros. Las dificultades aparecen pronto cuando Armando se enamora de Sonia y descubren que los negocios de Raúl no son legítimos.",
+    "cast": [
+        "Will Ferrell",
+        "Gael García Bernal"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BODE1MDYzNjA0NF5BMl5BanBnXkFtZTcwNjY2MTgyNw@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/rgPPGg1JRLY",
+    "semana": "sem2"
+},
+{
+    "id": 7,
+    "titulo": "Red Notice",
+    "espaniol": "Alerta Roja",
+    "anio": 2021,
+    "genero": "Acción / Comedia",
+    "director": "Rawson Marshall Thurber",
+    "info": "John Hartley, agente de la Interpol, no tendrá otro remedio que aliarse con el ladrón de arte más célebre de todos los tiempos, Nolan Booth, para capturar a la ladrona de arte más buscada del presente: la seductora y peligrosa Sarah Black.",
+    "cast": [
+        "Dwayne Johnson",
+        "Ryan Reynolds"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/Pj0wz7zu3Ms",
+    "semana": "sem2"
+},
+{
+    "id": 8,
+    "titulo": "The Edge of Seventeen",
+    "espaniol": "Al filo de los diecisiete",
+    "anio": 2016,
+    "genero": "Comedia / Drama",
+    "director": "Kelly Fremon Craig",
+    "info": "Nadine y Krista son dos compañeras de instituto y mejores amigas. Sin embargo, su sólida amistad empieza a tambalearse cuando Nadine descubre que Krista sale en secreto con su hermano mayor.",
+    "cast": [
+        "Hailee Steinfeld",
+        "Haley Lu Richardson"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/vswj96INhmo",
+    "semana": "sem2"
+},
+{
+    "id": 9,
+    "titulo": "Little Evil",
+    "espaniol": "Pequeño Demonio",
+    "anio": 2017,
+    "genero": "Comedia / Terror",
+    "director": "Eli Craig",
+    "info": "Gary, que acaba de casarse con Samantha, la mujer de sus sueños, descubre que su hijastro de 6 años no sólo es el niño de sus pesadillas, sino que incluso podría ser el Anticristo.",
+    "cast": [
+        "Evangeline Lilly",
+        "Owen Atlas"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjQ0NTM2NzQ0Ml5BMl5BanBnXkFtZTgwMjc4MTAzMzI@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/Mnj-MXs1yVU",
+    "semana": "sem2"
+},
+{
+    "id": 10,
+    "titulo": "The Dead Don't Die",
+    "espaniol": "Los muertos no mueren",
+    "anio": 2019,
+    "genero": "Comedia / Terror",
+    "director": "Jim Jarmusch",
+    "info": "En la pequeña localidad de Centerville empiezan a ocurrir fenómenos extraños. A raíz de esto, los muertos vuelven a la vida y un variado grupo de personajes tendrá que enfrentarse a ellos.",
+    "cast": [
+        "Bill Murray",
+        "Adam Driver"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BZWQxZDIzNzUtZGE3MS00MGU3LTk5NjMtZGFjMDljNDlmMWE1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/bs5ZOcU6Bnw",
+    "semana": "sem2"
+},
+{
+    "id": 11,
+    "titulo": "Girlfriend's Day",
+    "espaniol": "El día de la novia",
+    "anio": 2017,
+    "genero": "Comedia / Drama",
+    "director": "Michael Paul Stephenson",
+    "info": "Un escritor de tarjetas debe crear el mensaje perfecto para una nueva celebración, el día de la novia, si desea salir vivo de la red de engaño y asesinato que lo atrapa.",
+    "cast": [
+        "Bob Odenkirk",
+        "Amber Tamblyn"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BOTVjYWQyZWUtMWI5ZS00NDEwLWJjM2ItZTlmNGJmNDViMTU2L2ltYWdlXkEyXkFqcGdeQXVyNjE4ODA3NTY@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/A2L0100_Yp4",
+    "semana": "sem2"
+},
+{
+    "id": 12,
+    "titulo": "What's Your Number?",
+    "espaniol": "Contando a mis Ex",
+    "anio": 2011,
+    "genero": "Comedia / Romance",
+    "director": "Mark Mylod",
+    "info": "Ally Darling es una mujer de treinta y tantos años que ha tenido una vida amorosa bastante decepcionante y que está luchando para tomar mejores decisiones de su vida intentará buscar a su verdadero amor entre sus relaciones pasadas para no llegar a la número 20.",
+    "cast": [
+        "Anna Farris",
+        "Chris Evans"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjIzNTc2MTgwNV5BMl5BanBnXkFtZTcwMzYzMzgxNQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/bgkxGrsX-A4",
+    "semana": "sem2"
+},
+{
+    "id": 13,
+    "titulo": "The Devil All the Time",
+    "espaniol": "El diablo a todas horas",
+    "anio": 2020,
+    "genero": "Crimen / Drama / Suspenso",
+    "director": "Antonio Campos",
+    "info": "Al terminar la guerra, un joven se desvive por proteger a los suyos en un pueblo remoto y plagado de personajes siniestros, donde reinan la corrupción y la crueldad.",
+    "cast": [
+        "Bill Skarsgård",
+        "Tom Holland"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BZmE1NmVmN2EtMjZmZC00YzAyLWE4MWEtYjY5YmExMjUxODU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/EIzazUv2gtI",
+    "semana": "sem1"
+},
+{
+    "id": 14,
+    "titulo": "A Quiet Place",
+    "espaniol": "Un lugar en silencio",
+    "anio": 2018,
+    "genero": "Drama / Terror / Ciencia Ficción",
+    "director": "John Krasinski",
+    "info": "En un mundo invadido y arrasado por unos letales extraterrestres que se guían por el sonido, Evelyn y Lee Abbott sobreviven con sus hijos en una granja aislada en el bosque, sumidos en el más profundo silencio. Mientras no hagan ruido, estarán a salvo.",
+    "cast": [
+        "Emily Blunt",
+        "John Krasinski"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/gV-nZjjXotA",
+    "semana": "sem1"
+},
+{
+    "id": 15,
+    "titulo": "Gone Girl",
+    "espaniol": "Perdida",
+    "anio": 2014,
+    "genero": "Drama / Misterio / Suspenso",
+    "director": "David Fincher",
+    "info": "En su quinto aniversario de boda, Nick informa que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse y se convierte en sospechoso.",
+    "cast": [
+        "Ben Affleck",
+        "Rosamund Pike"
+    ],
+    "cover": "cover_gone-girl.jpg",
+    "trailer": "https://imdb-api.com/images/original/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_Ratio0.7273_AL_.jpg",
+    "semana": "sem1"
+},
+{
+    "id": 16,
+    "titulo": "Parasite",
+    "espaniol": "Parásitos",
+    "anio": 2019,
+    "genero": "Comedia / Drama  / Terror",
+    "director": "Bong Joon Ho",
+    "info": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a impartir clases particulares en la adinerada casa de los Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, entablan una relación de resultados imprevisibles.",
+    "cast": [
+        "Kang-ho Song",
+        "Sun-kyun Lee"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/Z7SiFLgoFQM",
+    "semana": "sem1"
+},
+{
+    "id": 17,
+    "titulo": "The Gentlemen",
+    "espaniol": "The Gentlemen",
+    "anio": 2019,
+    "genero": "Acción / Comedia / Crimen",
+    "director": "Guy Ritchie",
+    "info": "Mickey Pearson es un expatriado estadounidense que se hizo rico construyendo un imperio de marihuana en Londres. Cuando se corre la voz de que está buscando sacar dinero del negocio, pronto se desencadena una serie de tramas y planes de aquellos que quieren su fortuna.",
+    "cast": [
+        "Matthew McConaughey",
+        "Charlie Hunnam"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/Ify9S7hj480",
+    "semana": "sem1"
+},
+{
+    "id": 18,
+    "titulo": "Gerald's Game",
+    "espaniol": "El juego de Gerald",
+    "anio": 2017,
+    "genero": "Drama / Terror / Suspenso",
+    "director": "Mike Flanagan",
+    "info": "Una pareja trata de darle vida a su matrimonio en una remota casa del lago. Cuando el marido muere inesperadamente, ella, atada a la cama, debe luchar para sobrevivir y liberarse.",
+    "cast": [
+        "Carla Gugino",
+        "Bruce Greenwood"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/vyLOAaihZ84",
+    "semana": "sem1"
+},
+{
+    "id": 19,
+    "titulo": "Mirage",
+    "espaniol": "Durante la tormenta",
+    "anio": 2018,
+    "genero": "Drama / Fantasía / Misterio",
+    "director": "Oriol Paulo",
+    "info": "Cindy y Parag deciden verse para satisfacer las necesidades emocionales del otro. Sin embargo, las cosas empiezan a tomar un giro inesperado.",
+    "cast": [
+        "Adriana Ugarte",
+        "Chino Darín"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BZDE2MzdhYzktOWVkZS00ZWYzLWI2YjMtY2MzYTc2Yjg3MzgwXkEyXkFqcGdeQXVyMzkwMTMxNDQ@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/t2-79qK2Cio",
+    "semana": "sem1"
+},
+{
+    "id": 20,
+    "titulo": "Collateral",
+    "espaniol": "Collateral",
+    "anio": 2004,
+    "genero": "Acción / Crimen / Drama",
+    "director": "Michael Mann",
+    "info": "Max lleva doce años detrás del volante de su taxi y está acostumbrado a ver todo tipo de personas y lugares por el retrovisor. Sin embargo, una noche, se ve obligado a llevar como pasajero a un asesino a sueldo.",
+    "cast": [
+        "Tom Cruise",
+        "Jamie Foxx"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/JlcX_GXtf40",
+    "semana": "sem1"
+},
+{
+    "id": 21,
+    "titulo": "Chappie",
+    "espaniol": "Chappie",
+    "anio": 2015,
+    "genero": "Acción / Crimen / Drama",
+    "director": "Neill Blomkamp",
+    "info": "En un futuro próximo, unos robots blindados patrullan las calles para luchar contra la criminalidad. Uno de esos robots es robado y reprogramado para hacerlo capaz de sentir y pensar por sí mismo.",
+    "cast": [
+        "Sharlto Copley",
+        "Dev Patel"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/Qid_7GfI7eM",
+    "semana": "sem3"
+},
+{
+    "id": 22,
+    "titulo": "The Midnight Sky",
+    "espaniol": "Cielo de Medianoche",
+    "anio": 2020,
+    "genero": "Aventura / Drama / Ciencia Ficción",
+    "director": "George Clooney",
+    "info": "Augustine, un científico solitario que se encuentra en el Ártico, trata de contactar con una nave espacial que intenta regresar a la Tierra. Augustine quiere impedir que un equipo de astronautas regrese a su hogar, pues se ha producido una misteriosa catástrofe global.",
+    "cast": [
+        "George Clooney",
+        "Felicity Jones"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BNDQwYjJjODMtOWNmNC00NDJjLThiNDgtNzVkOTM1MjY5NDQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/DXUUqr3AFKs",
+    "semana": "sem3"
+},
+{
+    "id": 23,
+    "titulo": "Ex_Machina",
+    "espaniol": "Ex Machina",
+    "anio": 2014,
+    "genero": "Drama / Ciencia Ficción / Suspenso",
+    "director": "Alex Garland",
+    "info": "Caleb, un joven programador, gana un concurso que le permitirá conocer al misterioso y solitario director ejecutivo de la empresa en la que trabaja. Al llegar a su residencia, Caleb descubre que tiene que convivir con un robot creado por su jefe.",
+    "cast": [
+        "Alicia Vikander",
+        "Domhnall Gleeson"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/EoQuVnKhxaM",
+    "semana": "sem3"
+},
+{
+    "id": 24,
+    "titulo": "Jumper",
+    "espaniol": "Jumper",
+    "anio": 2008,
+    "genero": "Acción / Aventura / Ciencia Ficción",
+    "director": "Doug Liman",
+    "info": "David Rice es un joven que tiene el misterioso poder de teletransportarse a cualquier lugar del mundo. Por esta razón, será perseguido por una organización secreta cuya misión es acabar con todos aquellos que posean esta habilidad.",
+    "cast": [
+        "Hayden Christensen",
+        "Samuel L. Jackson"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjEwOTkyOTI3M15BMl5BanBnXkFtZTcwNTQxMjU1MQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/DtacNQkFHvo",
+    "semana": "sem3"
+},
+{
+    "id": 25,
+    "titulo": "The Mummy",
+    "espaniol": "La Momia",
+    "anio": 1999,
+    "genero": "Acción / Aventura / Fantasía",
+    "director": "Stephen Sommers",
+    "info": "Rick O'Connell y un compañero descubren las ruinas de Hamunaptra. Después vuelven al mismo lugar con una egiptóloga y su hermano. Allí coinciden con un grupo de americanos que provocan la resurrección de la momia de un diabólico sacerdote egipcio.",
+    "cast": [
+        "Brendan Fraser",
+        "Rachel Weisz"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BOTJiYjBhZDgtMjhiOC00MTIzLThlNGMtMmI1NjIwM2M3YTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/f7oKxlaUBac",
+    "semana": "sem3"
+},
+{
+    "id": 26,
+    "titulo": "Mute",
+    "espaniol": "Mudo",
+    "anio": 2018,
+    "genero": "Misterio / Ciencia Ficcón / Suspenso",
+    "director": "Duncan Jones",
+    "info": "En una Berlín del futuro, un camarero mudo busca a su amada dama desaparecida y ello lo introduce en la vida criminal de la ciudad.",
+    "cast": [
+        "Alexander Skarsgård",
+        "Paul Rudd"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjAwNTE3MjQ2M15BMl5BanBnXkFtZTgwNjgzNjk2NDM@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/ma8te7ywEio",
+    "semana": "sem3"
+},
+{
+    "id": 27,
+    "titulo": "The Mitchells vs the Machines",
+    "espaniol": "Los Mitchell contra las máquinas",
+    "anio": 2021,
+    "genero": "Animación / Aventura / Comedia",
+    "director": "Michael Rianda",
+    "info": "El viaje por carretera de la familia Mitchell, que va a acompañar a uno de sus hijos a su primer día de universidad, se ve interrumpido por una insurrección tecnológica que amenaza a la humanidad.",
+    "cast": [
+        "Abbi Jacobson",
+        "Danny McBride"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BOTFjNjc0MTgtYmYwZi00NDcyLTlmMmYtNmJkZTI4MWJjYjM5XkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/ak5dFt8Ar0",
+    "semana": "sem3"
+},
+{
+    "id": 28,
+    "titulo": "Outside the Wire",
+    "espaniol": "Zona de riesgo",
+    "anio": 2021,
+    "genero": "Acción / Aventura / Fantasía",
+    "director": "Mikael Håfström",
+    "info": "En un futuro cercano, un piloto de drones se encuentra emparejado con un oficial androide de alto secreto en una misión para detener un ataque nuclear.",
+    "cast": [
+        "Anthony Mackie",
+        "Damson Idris"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/u8ZsUivELbs",
+    "semana": "sem3"
+},
+{
+    "id": 29,
+    "titulo": "Shawshank Redemption",
+    "espaniol": "Sueño de fuga",
+    "anio": 1994,
+    "genero": "Drama / Crimen",
+    "director": "Frank Darabont",
+    "info": "Andrew Dufresne es un hombre inocente que es acusado del asesinato de su mujer. Tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank, en Maine.",
+    "cast": [
+        "Tim Robbins",
+        "Morgan Freeman"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/NmzuHjWmXOc",
+    "semana": "sem4"
+},
+{
+    "id": 30,
+    "titulo": "Memento",
+    "espaniol": "Amnesia",
+    "anio": 2000,
+    "genero": "Suspenso / Misterio",
+    "director": "Christopher Nolan",
+    "info": "Leonard es un investigador de una agencia de seguros cuya memoria está irreversiblemente dañada por culpa de un golpe en la cabeza, al intentar evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado.",
+    "cast": [
+        "Guy Pearce",
+        "Carrie-Anne Moss"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/4CV41hoyS8A",
+    "semana": "sem4"
+},
+{
+    "id": 31,
+    "titulo": "The Accountant",
+    "espaniol": "El contador",
+    "anio": 2016,
+    "genero": "Acción / Suspenso",
+    "director": "Gavin O'Connor",
+    "info": "Christian Wolff es un contable y genio matemático que lleva una doble vida como asesino despiadado.",
+    "cast": [
+        "Ben Affleck",
+        "Anna Kendrick"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/DBfsgcswlYQ",
+    "semana": "sem4"
+},
+{
+    "id": 32,
+    "titulo": "The Postcard Killings",
+    "espaniol": "El asesino de las postales",
+    "anio": 2020,
+    "genero": "Misterio / Crimen",
+    "director": "Danis Tanović",
+    "info": "La hija del detective neoyorquino Jacob Kanon ha sido asesinada poco después de casarse. Cuando Kanon se entera de esta terrible noticia, decide buscar al responsable del crimen a cualquier precio.",
+    "cast": [
+        "Jeffrey Dean Morgan",
+        "Famke Janssen"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMjMxMmVjMjMtNzA4OS00ZDAxLTk3YjUtYzQ5MmExZjQwOTk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/MHF2r-hSdUo",
+    "semana": "sem4"
+},
+{
+    "id": 33,
+    "titulo": "Se7en",
+    "espaniol": "Se7en: los siete pecados capitales",
+    "anio": 1995,
+    "genero": "Crimen / Misterio",
+    "director": "David Fincher",
+    "info": "El veterano teniente Somerset está a punto de jubilarse y ser reemplazado por el impulsivo detective David Mills. Ambos tendrán que colaborar en la resolución de unos asesinatos cometidos por un psicópata que se basa en los siete pecados capitales.",
+    "cast": [
+        "Brad Pitt",
+        "Morgan Freeman"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/znmZoVkCjpI",
+    "semana": "sem4"
+},
+{
+    "id": 34,
+    "titulo": "The Highwaymen",
+    "espaniol": "Emboscada final",
+    "anio": 2019,
+    "genero": "Crimen / Drama",
+    "director": "John Lee Hancock",
+    "info": "Los dos ex rangers de Texas Frank Hamer y Maney Gault aúnan fuerzas para tratar de capturar a la famosa pareja de forajidos formada por Bonnie Parker y Clyde Barrow.",
+    "cast": [
+        "Kevin Costner",
+        "Woody Harrelson"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BZmM5Y2QzOGQtNTdjZS00NDVhLThkYjItZjZiMjk4YjM0ZTUzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/aH6vC-BBKOc",
+    "semana": "sem4"
+},
+{
+    "id": 35,
+    "titulo": "Léon: The Professional",
+    "espaniol": "El asesino perfecto",
+    "anio": 1994,
+    "genero": "Acción / Drama",
+    "director": "Luc Besson",
+    "info": "Mathilda es una niña que no se lleva bien con su familia, excepto con su hermano pequeño. Su padre es un narcotraficante que hace negocios con Stan, un corrupto agente de la D.E.A.",
+    "cast": [
+        "Jean Reno",
+        "Natalie Portman"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/jawVxq1Iyl0",
+    "semana": "sem4"
+},
+{
+    "id": 36,
+    "titulo": "The Invisible Guest",
+    "espaniol": "Contratiempo",
+    "anio": 2016,
+    "genero": "Suspenso / Misterio",
+    "director": "Oriol Paulo",
+    "info": "La vida del exitoso empresario Adrián Doria se vuelve una pesadilla cuando una mañana se despierta en una habitación de hotel junto al cadáver de su amante. Él está convencido de su inocencia, pero las pruebas demuestran lo contrario.",
+    "cast": [
+        "Mario Casas",
+        "Bárbara Lennie"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BOTEwYTkzMTMtODEzNC00YWM2LTgxNDMtZWNkNTQzNDVjMWQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/Fo6-sfYjn1s",
+    "semana": "sem4"
+},
+{
+    "id": 37,
+    "titulo": "Sleepers",
+    "espaniol": "Hijos de la calle",
+    "anio": 1996,
+    "genero": "Drama / Crimen",
+    "director": "Barry Levinson",
+    "info": "Después de que una broma salga terriblemente mal, un grupo de chicos es enviado a un centro de menores donde son vejados. Diez años después tendrán la oportunidad de vengarse.",
+    "cast": [
+        "Kevin Bacon",
+        "Robert De Niro"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMzk1MmI4NzAtOGRiNS00YjY1LTllNmEtZDhiZDM4MjU2NTMxXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/sVdiN_4gBWk",
+    "semana": "sem5"
+},
+{
+    "id": 38,
+    "titulo": "Perfect Stranger",
+    "espaniol": "Seduciendo a un extraño",
+    "anio": 2007,
+    "genero": "Suspenso / Misterio",
+    "director": "James Foley",
+    "info": "La reportera Rowena Price usa sus habilidades investigativas para resolver la muerte de un amigo. Su búsqueda la lleva hasta Harrison Hill, un poderoso ejecutivo publicitario. Ella asume nuevas identidades en el mundo real y en línea, utilizando el ciberespacio en un esfuerzo por llevar al culpable ante la justicia.",
+    "cast": [
+        "Halle Berry",
+        "Bruce Willis"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMTY4ODUwMTk3OV5BMl5BanBnXkFtZTcwNTI1MTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/nXHxd3wDzL4",
+    "semana": "sem5"
+},
+{
+    "id": 38,
+    "titulo": "Cellular",
+    "espaniol": "Celular",
+    "anio": 2004,
+    "genero": "Suspenso / Acción",
+    "director": "John Ottman",
+    "info": "Un joven recibe la llamada de una mujer que le dice que ha sido secuestrada y que la van a asesinar muy pronto. Además, sus captores buscan también a su marido y su hijo. Ella necesita ayuda, pero no sabe dónde está y la batería del móvil comienza a agotarse.",
+    "cast": [
+        "Chris Evans",
+        "Jason Statham"
+    ],
+    "cover": "cover_cellular.jpg",
+    "trailer": "https://youtu.be/O0azvuJ1DP0",
+    "semana": "sem5"
+},
+{
+    "id": 39,
+    "titulo": "Intrusion",
+    "espaniol": "Intrusión",
+    "anio": 2021,
+    "genero": "Thriller psicológico",
+    "director": "Adam Salky",
+    "info": "Tras sufrir una invasión de su casa con un trágico desenlace, una mujer conmocionada busca respuestas y descubre que la verdadera pesadilla no ha hecho más que empezar.",
+    "cast": [
+        "Freida Pinto",
+        "Logan Marshall-Green"
+    ],
+    "cover": "cover_intrusion.jpg",
+    "trailer": "https://youtu.be/DTUsaltziFA",
+    "semana": "sem5"
+},
+{
+    "id": 40,
+    "titulo": "American Gangster",
+    "espaniol": "Gángster Americano",
+    "anio": 2007,
+    "genero": "Drama / Crimen",
+    "director": "Ridley Scott",
+    "info": "Frank Lucas, tras la muerte de su jefe, aprovecha la oportunidad para construir su imperio del narcotráfico. Por su parte, Richie Roberts es un policía incorruptible que persigue a los clanes. La férrea ética de ambos les enfrentará inevitablemente.",
+    "cast": [
+        "Denzel Washington",
+        "Russel Crowe"
+    ],
+    "cover": "cover_american-gangster.jpg",
+    "trailer": "https://youtu.be/BV_nssS6Zkg",
+    "semana": "sem5"
+},
+{
+    "id": 41,
+    "titulo": "Contratiempo",
+    "espaniol": "Contratiempo",
+    "anio": 2016,
+    "genero": "Suspenso / Misterio",
+    "director": "Oriol Paulo",
+    "info": "La vida del exitoso empresario Adrián Doria se vuelve una pesadilla cuando una mañana se despierta en una habitación de hotel junto al cadáver de su amante. Él está convencido de su inocencia, pero las pruebas demuestran lo contrario.",
+    "cast": [
+        "Mario Casas",
+        "Bárbara Lennie"
+    ],
+    "cover": "cover_contratiempo.jpg",
+    "trailer": "https://youtu.be/Fo6-sfYjn1s",
+    "semana": "sem5"
+},
+{
+    "id": 42,
+    "titulo": "The Highwaymen",
+    "espaniol": "Emboscada final",
+    "anio": 2019,
+    "genero": "Crimen / Drama",
+    "director": "John Lee Hancock",
+    "info": "Los dos ex rangers de Texas Frank Hamer y Maney Gault aúnan fuerzas para tratar de capturar a la famosa pareja de forajidos formada por Bonnie Parker y Clyde Barrow.",
+    "cast": [
+        "Kevin Costner",
+        "Woody Harrelson"
+    ],
+    "cover": "cover_highwaymen.jpg",
+    "trailer": "https://youtu.be/aH6vC-BBKOc",
+    "semana": "sem5"
+},
+{
+    "id": 43,
+    "titulo": "Memento",
+    "espaniol": "Amnesia",
+    "anio": 2000,
+    "genero": "Suspenso / Misterio",
+    "director": "Christopher Nolan",
+    "info": "Leonard es un investigador de una agencia de seguros cuya memoria está irreversiblemente dañada por culpa de un golpe en la cabeza, al intentar evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado.",
+    "cast": [
+        "Guy Pearce",
+        "Carrie-Anne Moss"
+    ],
+    "cover": "cover_memento.jpg",
+    "trailer": "https://youtu.be/mV9l1enMqvk",
+    "semana": "sem5"
+},
+{
+    "id": 44,
+    "titulo": "Righteous Kill",
+    "espaniol": "Frente a frente",
+    "anio": 2008,
+    "genero": "Acción / Misterio",
+    "director": "Jon Avnet",
+    "info": "Los detectives Thomas Cowan y David Fisk, veteranos con 30 años de experiencia en el Departamento de Policía de Nueva York, deben investigar el asesinato de un personaje famoso. El crimen les recuerda un caso que resolvieron muchos años atrás.",
+    "cast": [
+        "Al Pacino",
+        "Robert De Niro"
+    ],
+    "cover": "cover_frente-a-frente.jpg",
+    "trailer": "https://youtu.be/n-PVyWUU7AE",
+    "semana": "sem5"
+},
+{
+    "id": 45,
+    "titulo": "Unlocked",
+    "espaniol": "Código abierto",
+    "anio": 2017,
+    "genero": "Acción / Suspenso",
+    "director": "Michael Apted",
+    "info": "La agente de la CIA, Alice Racine, atormentada por un error del pasado, descubre que unos terroristas planean un ataque con armas biológicas en Londres. Mientras trata de evitarlo y sobrevivir a sus perseguidores, solo un antiguo soldado le ayuda.",
+    "cast": [
+        "Noomi Rapace",
+        "John Malkovich"
+    ],
+    "cover": "cover_unlocked.jpg",
+    "trailer": "https://youtu.be/kDZpFrAPoNE",
+    "semana": "sem5"
+},
+{
+    "id": 46,
+    "titulo": "The Collini Case",
+    "espaniol": "Historia de un crimen",
+    "anio": 2019,
+    "genero": "Misterio / Drama",
+    "director": "Marco Kreuzpaintner",
+    "info": "Un joven e inexperto abogado se cruza con una gran conspiración judicial mientras investiga un brutal caso de asesinato.",
+    "cast": [
+        "Franco Nero",
+        "Elyas M'Barek"
+    ],
+    "cover": "cover_collini-case.jpg",
+    "trailer": "https://youtu.be/5BcEi4TovzQ",
+    "semana": "sem5"
+},
+{
+    "id": 47,
+    "titulo": "The Woman in the Window",
+    "espaniol": "La mujer de la ventana",
+    "anio": 2021,
+    "genero": "Suspenso / Misterio",
+    "director": "Joe Wright",
+    "info": "La Dra. Anna Fox pasa sus días encerrada en su casa de Nueva York, bebiendo vino mientras ve viejas películas y espía a sus vecinos. Un día, mientras mira por la ventana, ve algo que sucede enfrente de su casa, en el hogar de los Russell, una familia a la que todo el barrio considera ejemplar.",
+    "cast": [
+        "Amy Adamns",
+        "Julianne Moore"
+    ],
+    "cover": "cover_woman-window.jpg",
+    "trailer": "https://youtu.be/v_0GJg_Jnlo",
+    "semana": "sem5"
+},
+{
+    "id": 48,
+    "titulo": "Before I Go to Sleep",
+    "espaniol": "Antes de despertar",
+    "anio": 2014,
+    "genero": "Suspenso / Misterio",
+    "director": "Rowan Joffé",
+    "info": "Christine Lucas es una escritora que a raíz de un accidente es incapaz de recordar el pasado y de retener los recuerdos más recientes.",
+    "cast": [
+        "Nicole Kidman",
+        "Colin Firth"
+    ],
+    "cover": "cover_beforeigotosleep.jpg",
+    "trailer": "https://youtu.be/tQdnOYpyBCo",
+    "semana": "sem5"
+},
+{
+    "id": 49,
+    "titulo": "The Postcard Killings",
+    "espaniol": "El asesino de las postales",
+    "anio": 2020,
+    "genero": "Misterio / Crimen",
+    "director": "Danis Tanović",
+    "info": "La hija del detective neoyorquino Jacob Kanon ha sido asesinada poco después de casarse. Cuando Kanon se entera de esta terrible noticia, decide buscar al responsable del crimen a cualquier precio.",
+    "cast": [
+        "Jeffrey Dean Morgan",
+        "Famke Janssen"
+    ],
+    "cover": "cover_postcard-killings.jpg",
+    "trailer": "https://youtu.be/MHF2r-hSdUo",
+    "semana": "sem5"
+},
+{
+    "id": 50,
+    "titulo": "Hush",
+    "espaniol": "Silencio",
+    "anio": 2016,
+    "genero": "Terror / Suspenso",
+    "director": "Mike Flanagan",
+    "info": "Maddie, una escritora sorda, vive aislada en el bosque, hasta que un intruso enmascarado aparece en la ventana. Pero sus límites no harán de ella una presa fácil.",
+    "cast": [
+        "Kate Siegel",
+        "John Gallagher Jr."
+    ],
+    "cover": "cover_hush.jpg",
+    "trailer": "https://youtu.be/Q_P8WCbhC6s",
+    "semana": "sem5"
+},
+{
+    "id": 51,
+    "titulo": "Stowaway",
+    "espaniol": "Pasajero inesperado",
+    "anio": 2021,
+    "genero": "Ciencia ficción / Suspenso",
+    "director": "Joe Penna",
+    "info": "Toni Colette encabeza el elenco de la cinta que muestra cómo una tripulación espacial enfrenta una decisión de vida o muerte.",
+    "cast": [
+        "Anna Kendrick",
+        "Toni Colette"
+    ],
+    "cover": "cover_stowaway.jpg",
+    "trailer": "https://youtu.be/A_apvQkWsVY",
+    "semana": "sem6"
+},
+{
+    "id": 52,
+    "titulo": "Dune",
+    "espaniol": "Duna",
+    "anio": 1984,
+    "genero": "Ciencia ficción / Aventura",
+    "director": "David Lynch",
+    "info": "En el desierto planeta de Arrakis, también conocido como Dune, la Reverenda Madre Ramallo, entona una antigua profecía para los Fremen: alguien vendrá de lejos y traerá la Guerra Santa que purificará el universo y nos sacará de las tinieblas.",
+    "cast": [
+        "Kyle MacLachlan",
+        "Sean Young"
+    ],
+    "cover": "cover_dune.jpg",
+    "trailer": "https://youtu.be/WHh8dzxTSNw",
+    "semana": "sem6"
+},
+{
+    "id": 53,
+    "titulo": "Passengers",
+    "espaniol": "Pasajeros",
+    "anio": 2016,
+    "genero": "Ciencia ficción / Romance",
+    "director": "Morten Tyldum",
+    "info": "Dos pasajeros que viajan en hibernación a un planeta lejano despiertan, por un error técnico, 90 años antes de llegar a destino.",
+    "cast": [
+        "Jennifer Lawrence",
+        "Chris Pratt"
+    ],
+    "cover": "cover_passengers.jpg",
+    "trailer": "https://youtu.be/7BWWWQzTpNU",
+    "semana": "sem6"
+},
+{
+    "id": 54,
+    "titulo": "The Midnight Sky",
+    "espaniol": "Cielo de medianoche",
+    "anio": 2020,
+    "genero": "Ciencia ficción / Drama",
+    "director": "George Clooney",
+    "info": "Augustine, un científico solitario que se encuentra en el Ártico, trata de contactar con una nave espacial que intenta regresar a la Tierra. Augustine quiere impedir que un equipo de astronautas regrese a su hogar, pues se ha producido una misteriosa catástrofe global.",
+    "cast": [
+        "George Clooney",
+        "Felicity Jones"
+    ],
+    "cover": "cover_midnight.jpg",
+    "trailer": "https://youtu.be/DXUUqr3AFKs",
+    "semana": "sem6"
+},
+{
+    "id": 55,
+    "titulo": "Oxygen",
+    "espaniol": "Oxígeno",
+    "anio": 2021,
+    "genero": "Ciencia ficción / Thriller",
+    "director": "Alexandre Aja",
+    "info": "Una mujer se despierta en una cámara criogénica sin recordar cómo llegó allí, y debe encontrar una salida antes de quedarse sin aire.",
+    "cast": [
+        "Mélanie Laurent",
+        "Laura Boujenah"
+    ],
+    "cover": "cover_oxygen.jpg",
+    "trailer": "https://youtu.be/8IqXgZd-P98",
+    "semana": "sem6"
+},
+{
+    "id": 56,
+    "titulo": "The Wandering Earth",
+    "espaniol": "La tierra errante",
+    "anio": 2019,
+    "genero": "Ciencia ficción / Drama",
+    "director": "Frant Gwo",
+    "info": "Cuando el sol se extingue, la gente de la Tierra construye propulsores gigantes para sacar al planeta fuera de la órbita y navegar hacia un nuevo sistema estelar. Después de 2.500 años, los jóvenes continúan luchando por la supervivencia de todos.",
+    "cast": [
+        "Zhao Jinmai",
+        "Qu Chuxiao"
+    ],
+    "cover": "cover_wandering-earth.jpg",
+    "trailer": "https://youtu.be/0TDII5IkI3Y",
+    "semana": "sem6"
+}
+]

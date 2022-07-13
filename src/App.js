@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import Movies from './json/movies.json'
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {Movies.filter(movie => movie.semana === "sem2").map( obj => (
+        <li key={obj.id}>
+          <h3>{obj.titulo}</h3>
+          <img src={obj.cover} alt={obj.titulo} />
+          </li>
+      ))}
     </div>
   );
 }
