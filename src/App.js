@@ -1,16 +1,21 @@
 import './App.css';
-import Movies from './json/movies.json'
+import Header from './components/Header/Header'
+import { BrowserRouter, Routes, Route} from 'react-router-dom'
+import Week from './components/Week/Week';
+import MovieDetail from './components/MovieDetail/MovieDetail';
 
 function App() {
 
   return (
+    
     <div className="App">
-      {Movies.filter(movie => movie.semana === "sem2").map( obj => (
-        <li key={obj.id}>
-          <h3>{obj.titulo}</h3>
-          <img src={obj.cover} alt={obj.titulo} />
-          </li>
-      ))}
+      <BrowserRouter>
+        <Header />
+        <Routes>
+          <Route path='/' element={<Week />} />
+          <Route path='/detail/:movieId' element={<MovieDetail />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }

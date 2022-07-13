@@ -1,0 +1,29 @@
+.winnerContainer {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.winnerContainerInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10% 20% 1% 20%;
+    gap: 5%;
+    background-color: rgb(0, 0, 0, .8);
+    color: #fff;
+}
+
+.winnerContainer button {
+    cursor: pointer;
+    background-color: #1E9C6A;
+    border: none;
+    padding: 2% 4%;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.winnerContainer button:hover {
+    background-color: #C11F75;
+}
