@@ -5,9 +5,14 @@
 
 .weeklyMovie {
     color: #fff;
-    padding: 2%;
+    padding: 2% 2%;
 }
 
 .weeklyMovie h2 {
-    margin-bottom: 1%;
+    margin-bottom: 0;
+}
+
+.weeklyMovie h3 {
+    color: #C11F75;
+    font-size: 1em;
 }

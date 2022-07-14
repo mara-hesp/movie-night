@@ -5,3 +5,7 @@ img {
 .movieCard:hover {
     opacity: 0.7;
 }
+
+.movieCard {
+    margin: 5% 0;
+}

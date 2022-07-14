@@ -2,7 +2,9 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <h1>Header</h1>
+        <header>
+            <h1>Pelis con TG</h1>
+        </header>
     )
 }
 

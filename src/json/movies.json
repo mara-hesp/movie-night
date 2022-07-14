@@ -234,8 +234,8 @@
         "Ben Affleck",
         "Rosamund Pike"
     ],
-    "cover": "cover_gone-girl.jpg",
-    "trailer": "https://imdb-api.com/images/original/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_Ratio0.7273_AL_.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/2-_-1nJf8Vg",
     "semana": "sem1"
 },
 {
@@ -607,22 +607,6 @@
     "semana": "sem5"
 },
 {
-    "id": "38",
-    "titulo": "Cellular",
-    "espaniol": "Celular",
-    "anio": "2004",
-    "genero": "Suspenso / Acción",
-    "director": "John Ottman",
-    "info": "Un joven recibe la llamada de una mujer que le dice que ha sido secuestrada y que la van a asesinar muy pronto. Además, sus captores buscan también a su marido y su hijo. Ella necesita ayuda, pero no sabe dónde está y la batería del móvil comienza a agotarse.",
-    "cast": [
-        "Chris Evans",
-        "Jason Statham"
-    ],
-    "cover": "cover_cellular.jpg",
-    "trailer": "https://youtu.be/O0azvuJ1DP0",
-    "semana": "sem5"
-},
-{
     "id": "39",
     "titulo": "Intrusion",
     "espaniol": "Intrusión",
@@ -634,7 +618,7 @@
         "Freida Pinto",
         "Logan Marshall-Green"
     ],
-    "cover": "cover_intrusion.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BZTU2ZmFhZjktODFkMS00YTMyLTg2OTktMzY3Y2NkZGEwNDU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/DTUsaltziFA",
     "semana": "sem5"
 },
@@ -650,13 +634,13 @@
         "Denzel Washington",
         "Russel Crowe"
     ],
-    "cover": "cover_american-gangster.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMjFmZGI2YTEtYmJhMS00YTE5LWJjNjAtNDI5OGY5ZDhmNTRlXkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/BV_nssS6Zkg",
     "semana": "sem5"
 },
 {
     "id": "41",
-    "titulo": "Contratiempo",
+    "titulo": "The Invisible Guest",
     "espaniol": "Contratiempo",
     "anio": "2016",
     "genero": "Suspenso / Misterio",
@@ -666,7 +650,7 @@
         "Mario Casas",
         "Bárbara Lennie"
     ],
-    "cover": "cover_contratiempo.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BOTEwYTkzMTMtODEzNC00YWM2LTgxNDMtZWNkNTQzNDVjMWQ2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/Fo6-sfYjn1s",
     "semana": "sem5"
 },
@@ -682,7 +666,7 @@
         "Kevin Costner",
         "Woody Harrelson"
     ],
-    "cover": "cover_highwaymen.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BZmM5Y2QzOGQtNTdjZS00NDVhLThkYjItZjZiMjk4YjM0ZTUzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/aH6vC-BBKOc",
     "semana": "sem5"
 },
@@ -698,7 +682,7 @@
         "Guy Pearce",
         "Carrie-Anne Moss"
     ],
-    "cover": "cover_memento.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/mV9l1enMqvk",
     "semana": "sem5"
 },
@@ -714,7 +698,7 @@
         "Al Pacino",
         "Robert De Niro"
     ],
-    "cover": "cover_frente-a-frente.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMTYwMjg3MjY3OV5BMl5BanBnXkFtZTcwNTc4MDU3MQ@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/n-PVyWUU7AE",
     "semana": "sem5"
 },
@@ -730,7 +714,7 @@
         "Noomi Rapace",
         "John Malkovich"
     ],
-    "cover": "cover_unlocked.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BZWJiNGQ1YzgtOGVjZS00MGRjLTgwZDMtNWFiNmQ2ZWI1ZWNkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/kDZpFrAPoNE",
     "semana": "sem5"
 },
@@ -746,7 +730,7 @@
         "Franco Nero",
         "Elyas M'Barek"
     ],
-    "cover": "cover_collini-case.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BOTdmOWUzM2EtZDU1OC00Zjg5LTgwZjctNGIwMGZhZTJkY2JmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/5BcEi4TovzQ",
     "semana": "sem5"
 },
@@ -762,7 +746,7 @@
         "Amy Adamns",
         "Julianne Moore"
     ],
-    "cover": "cover_woman-window.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BYmVlNWJkZWYtYmJkMy00YTZlLTgwODMtZjVmOGMzMmM1ZTk2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/v_0GJg_Jnlo",
     "semana": "sem5"
 },
@@ -778,7 +762,7 @@
         "Nicole Kidman",
         "Colin Firth"
     ],
-    "cover": "cover_beforeigotosleep.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BNjI0NTAwMTU1NV5BMl5BanBnXkFtZTgwNzkwNjQ0MjE@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/tQdnOYpyBCo",
     "semana": "sem5"
 },
@@ -794,7 +778,7 @@
         "Jeffrey Dean Morgan",
         "Famke Janssen"
     ],
-    "cover": "cover_postcard-killings.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMjMxMmVjMjMtNzA4OS00ZDAxLTk3YjUtYzQ5MmExZjQwOTk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/MHF2r-hSdUo",
     "semana": "sem5"
 },
@@ -810,7 +794,7 @@
         "Kate Siegel",
         "John Gallagher Jr."
     ],
-    "cover": "cover_hush.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BOWQ4OTdlODQtMDc3Yy00MGVmLWExYjUtOGI0Yjg4MDQzNDNhXkEyXkFqcGdeQXVyNjIzMzkyMzk@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/Q_P8WCbhC6s",
     "semana": "sem5"
 },
@@ -826,7 +810,7 @@
         "Anna Kendrick",
         "Toni Colette"
     ],
-    "cover": "cover_stowaway.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMWYwMWQxMmUtNjU3MS00NjIwLTllYWMtNzcxYzRkMWYyYTkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/A_apvQkWsVY",
     "semana": "sem6"
 },
@@ -842,7 +826,7 @@
         "Kyle MacLachlan",
         "Sean Young"
     ],
-    "cover": "cover_dune.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BYTAzYzNlMDMtMGRjYS00M2UxLTk0MmEtYmE4YWZiYmEwOTIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/WHh8dzxTSNw",
     "semana": "sem6"
 },
@@ -858,7 +842,7 @@
         "Jennifer Lawrence",
         "Chris Pratt"
     ],
-    "cover": "cover_passengers.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/7BWWWQzTpNU",
     "semana": "sem6"
 },
@@ -874,7 +858,7 @@
         "George Clooney",
         "Felicity Jones"
     ],
-    "cover": "cover_midnight.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BNDQwYjJjODMtOWNmNC00NDJjLThiNDgtNzVkOTM1MjY5NDQ5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/DXUUqr3AFKs",
     "semana": "sem6"
 },
@@ -890,7 +874,7 @@
         "Mélanie Laurent",
         "Laura Boujenah"
     ],
-    "cover": "cover_oxygen.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMWQ3N2EzNjYtMzgwYS00YjdmLThmOTUtMzc4NDUxZjZkY2RhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/8IqXgZd-P98",
     "semana": "sem6"
 },
@@ -906,8 +890,24 @@
         "Zhao Jinmai",
         "Qu Chuxiao"
     ],
-    "cover": "cover_wandering-earth.jpg",
+    "cover": "https://imdb-api.com/images/original/MV5BMjE2NzZlMGItMzA4OS00ZjRiLTk3NzItMDRkOGFlZmNhYzJkXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.7273_AL_.jpg",
     "trailer": "https://youtu.be/0TDII5IkI3Y",
     "semana": "sem6"
+},
+{
+    "id": "57",
+    "titulo": "Cellular",
+    "espaniol": "Celular",
+    "anio": "2004",
+    "genero": "Suspenso / Acción",
+    "director": "John Ottman",
+    "info": "Un joven recibe la llamada de una mujer que le dice que ha sido secuestrada y que la van a asesinar muy pronto. Además, sus captores buscan también a su marido y su hijo. Ella necesita ayuda, pero no sabe dónde está y la batería del móvil comienza a agotarse.",
+    "cast": [
+        "Chris Evans",
+        "Jason Statham"
+    ],
+    "cover": "https://imdb-api.com/images/original/MV5BMmRmODc1OGEtYzhjOC00Y2FiLWFhNWUtYTJiYjlhMGU0Njk4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.7273_AL_.jpg",
+    "trailer": "https://youtu.be/O0azvuJ1DP0",
+    "semana": "sem5"
 }
 ]

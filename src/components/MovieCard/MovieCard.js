@@ -10,7 +10,6 @@ const MovieCard = ({ obj }) => {
                     <img src={el.cover} alt={el.titulo} />
                 </Link>
             ))}
-            <p>{obj.id}</p>
         </div>
     )
 }
