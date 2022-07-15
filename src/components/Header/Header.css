@@ -14,3 +14,9 @@ header {
 .hidden {
     display: none;
 }
+
+@media (max-width: 767px) {
+    header {
+        flex-direction: column;
+    }
+}

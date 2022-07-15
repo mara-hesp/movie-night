@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <header>
             <Link to='/'><h2>Pelis con TG</h2></Link>
-            {location !== '/vote' && <Link to='/vote'><button>Votación de la Semana</button></Link>}
+            {location !== '/vote' && <Link to='/vote'><button className='secondaryBtn'>Votación de la Semana →</button></Link>}
         </header>
     )
 }

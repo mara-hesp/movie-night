@@ -18,7 +18,7 @@ a:hover {
 }
 
 a:active {
-    color: #fff;
+    color: #8d2dfa;
 }
 
 img:hover {
@@ -38,4 +38,24 @@ button {
 
 button:hover {
     background-color: #6402d4;
+}
+
+button:active {
+    background-color: #d40284; 
+}
+
+.secondaryBtn {
+    color: #ff24ab;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.secondaryBtn:hover {
+    color: #8d2dfa;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.secondaryBtn:active {
+    color: #ff24ab;
+    background-color: rgba(0, 0, 0, 0);
 }
