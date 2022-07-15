@@ -17,7 +17,7 @@ const Winner = ({ id }) => {
                     <br />
                     <p>Cast: {obj.cast.join(", ")}</p>
                     <br />
-                    <span><a href={obj.trailer}><button>Ver tráiler</button></a></span>
+                    <span><a href={`https://youtu.be/${obj.trailer}`}><button>Ver tráiler</button></a></span>
                 </div>
             </div>
           </div>

@@ -6,17 +6,36 @@
 }
 
 html {
-    background-color: #1C1C1C;
+    background-color: #0E0C1B;
 }
 
 a {
-    color: #1E9C6A;
+    color: #8d2dfa;
 }
 
 a:hover {
-    color: #C11F75;
+    color: #ff24ab;
 }
 
 a:active {
     color: #fff;
+}
+
+img:hover {
+    opacity: 0.7;
+}
+
+
+button {
+    cursor: pointer;
+    background-color: #d40284;
+    border: none;
+    padding: 10px 20px;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+button:hover {
+    background-color: #6402d4;
 }
