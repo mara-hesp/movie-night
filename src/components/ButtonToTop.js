@@ -1,4 +1,3 @@
-import './ButtonToTop.css'
 import { useState, useEffect } from 'react'
 
 const ButtonToTop = () => {

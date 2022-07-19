@@ -1,7 +1,6 @@
-import './VoteContainer.css'
-import Movies from '../../json/movies.json'
-import VoteCard from '../VoteCard/VoteCard'
-import ButtonToTop from '../ButtonToTop/ButtonToTop'
+import Movies from '../json/movies.json'
+import VoteCard from './VoteCard'
+import ButtonToTop from './ButtonToTop'
 
 const VoteContainer = ({ sem, title, sub}) => {
     return (

@@ -1,6 +1,6 @@
-import MovieListContainer from '../MovieListContainer/MovieListContainer'
-import Winner from '../Winner/Winner'
-import ButtonToTop from '../ButtonToTop/ButtonToTop'
+import MovieListContainer from './MovieListContainer'
+import Winner from './Winner'
+import ButtonToTop from './ButtonToTop'
 
 const Week = () => {
 

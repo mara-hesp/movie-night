@@ -1,5 +1,4 @@
-import './VoteCard.css'
-import Movies from '../../json/movies.json'
+import Movies from '../json/movies.json'
 import { Link } from 'react-router-dom'
 
 const VoteCard = ({ obj }) => {

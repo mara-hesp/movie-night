@@ -1,6 +1,5 @@
 import { useParams } from "react-router-dom"
-import Movies from '../../json/movies.json'
-import './MovieDetail.css'
+import Movies from '../json/movies.json'
 
 const MovieDetail = () => {
     const { movieId } = useParams()
@@ -8,8 +7,8 @@ const MovieDetail = () => {
     return (
         <div>
             {Movies.filter(movie => movie.id === movieId).map(el => (
-                <div key={el.id} className="voteContainer" style={{backgroundImage: `url(${el.cover})`}}>
-                    <div className="voteContainerInfo">
+                <div key={el.id} className="detailContainer" style={{backgroundImage: `url(${el.cover})`}}>
+                    <div className="detailContainerInfo">
                 <img src={el.cover} alt={el.title} />
                 <div>
                     <h2>{el.titulo}</h2>

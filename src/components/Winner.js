@@ -1,5 +1,4 @@
-import './Winner.css'
-import Movies from '../../json/movies.json'
+import Movies from '../json/movies.json'
 
 const Winner = ({ id }) => {
     return (
