@@ -1,6 +1,7 @@
 import './VoteContainer.css'
 import Movies from '../../json/movies.json'
 import VoteCard from '../VoteCard/VoteCard'
+import ButtonToTop from '../ButtonToTop/ButtonToTop'
 
 const VoteContainer = ({ sem, title, sub}) => {
     return (
@@ -15,6 +16,7 @@ const VoteContainer = ({ sem, title, sub}) => {
             ))}
             </li>
             <a href='https://forms.gle/98LeKYuUzBMC1wvj9' className='voteBtn'><button>Click aquí para Votar</button></a>
+            <ButtonToTop />
         </div>
     )
 }
