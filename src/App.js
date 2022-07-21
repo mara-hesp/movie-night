@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/detail/:movieId' element={<MovieDetail />} />
-          <Route path='/vote' element={<VoteContainer sem="sem7" title="Películas de Terror" sub="Semana 7"/>} />
+          <Route path='/vote' element={<VoteContainer sem="sem8" title="Películas Slasher" sub="Semana 8"/>} />
         </Routes>
         <Footer />
       </BrowserRouter>

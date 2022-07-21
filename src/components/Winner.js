@@ -1,4 +1,4 @@
-import Movies from '../json/movies.json'
+import Movies from '../data.json'
 
 const Winner = ({ id }) => {
     return (
