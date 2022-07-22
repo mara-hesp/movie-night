@@ -6,7 +6,8 @@ const Week = () => {
 
     return (
         <div>
-            <Winner id="64" />
+            <Winner id="65" />
+            <MovieListContainer sem="sem8" title='Slasher' sub='Semana 8' win="65" />
             <MovieListContainer sem='sem7' title='Terror' sub='Semana 7' win='64' /> 
             <MovieListContainer sem="sem6" title="En el Espacio" sub="Semana 6" win="56" />
             <MovieListContainer sem="sem5" title="Crimen II" sub="Semana 5" win="49" />
