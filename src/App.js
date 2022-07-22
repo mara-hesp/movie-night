@@ -6,6 +6,9 @@ import VoteContainer from './components/VoteContainer';
 import Footer from './components/Footer';
 import './App.scss'
 
+
+
+
 function App() {
 
   return (
