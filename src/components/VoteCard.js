@@ -6,7 +6,7 @@ const VoteCard = ({ obj }) => {
         <div>
             {Movies.filter(movie => movie.id === obj.id).map(obj => (
                     <div className="voteInfo" key={obj.id}>
-                        <Link to={`/detail/${obj.id}`}><img src={obj.cover} alt={obj.title} /></Link>
+                        <Link to={`/detail/${obj.id}`}><img src={obj.cover} alt={obj.title} loading="lazy" /></Link>
                             <div>
                                 <h2>{obj.titulo}</h2>
                                 <h3>{obj.espaniol}</h3>

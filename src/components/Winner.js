@@ -6,7 +6,7 @@ const Winner = ({ id }) => {
             {Movies.filter(movie => movie.id === id).map( obj => (
           <div key={obj.id} className="winnerContainer" style={{backgroundImage: `url(${obj.cover})`}}>
                 <div className="winnerContainerInfo">
-                <img src={obj.cover} alt={obj.title} />
+                <img src={obj.cover} alt={obj.title} loading="lazy" />
                 <div>
                     <h2>{obj.titulo}</h2>
                     <h3>{obj.espaniol}</h3>

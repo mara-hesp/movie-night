@@ -9,7 +9,7 @@ const MovieDetail = () => {
             {Movies.filter(movie => movie.id === movieId).map(el => (
                 <div key={el.id} className="detailContainer" style={{backgroundImage: `url(${el.cover})`}}>
                     <div className="detailContainerInfo">
-                <img src={el.cover} alt={el.title} />
+                <img src={el.cover} alt={el.title} loading="lazy" />
                 <div>
                     <h2>{el.titulo}</h2>
                     <h3>{el.espaniol}</h3>
