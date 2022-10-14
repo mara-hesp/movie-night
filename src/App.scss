@@ -60,7 +60,7 @@ img {
     }
 }
 
-button {
+button, .button {
     cursor: pointer;
     background-color: $button;
     border-radius: 5px;
@@ -198,6 +198,45 @@ button {
     opacity: 0.8;
     @include flex-center;
 }
+.search {
+    padding: 25px;
+    text-align: center;
+    input {
+        margin: 5px;
+    }
+    .input {
+        width: 50vh;
+        padding: 6px;
+    }
+}
+.movie-search-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    padding: 25px;
+    justify-content: center;
+    .movie {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        color: white;
+        width: 20%;
+        text-align: center;
+        h2 {
+            font-size: 1.3em;
+        }
+        p {
+            margin-bottom: 25px;
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+
+
+
 
 
 
@@ -226,6 +265,11 @@ button {
     .detailContainerInfo {
         padding: 10%;
     }
+    .movie-search-list {
+        .movie {
+            width: 90%;
+        }
+    }
 }
 
 @media (min-width: 768px) {
@@ -246,6 +290,11 @@ button {
     }
     .detailContainerInfo {
         padding: 10%;
+    }
+    .movie-search-list {
+        .movie {
+            width: 24%;
+        }
     }
 }
 
@@ -269,5 +318,10 @@ button {
     }
     .detailContainerInfo {
         padding: 5% 20%;
+    }
+    .movie-search-list {
+        .movie {
+            width: 20%;
+        }
     }
 }

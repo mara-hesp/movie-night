@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route} from 'react-router-dom'
 import Home from './components/Home'
 import MovieDetail from './components/MovieDetail';
 import VoteContainer from './components/VoteContainer';
+import SearchContainer from './components/SearchContainer';
 import Footer from './components/Footer';
 import './App.scss'
 
@@ -19,6 +20,7 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/detail/:movieId' element={<MovieDetail />} />
           <Route path='/vote' element={<VoteContainer sem="sem8" title="Películas Slasher" sub="Semana 8"/>} />
+          <Route path='/search' element={<SearchContainer />} />
         </Routes>
         <Footer />
       </BrowserRouter>
