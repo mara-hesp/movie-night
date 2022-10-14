@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import Search from './Search/Search'
 import Movie from './Search/Movie'
 import ButtonToTop from './ButtonToTop';
+import Loading from './Loading';
 
 const SearchContainer = () => {
     const MOVIE_API_URL = 'https://www.omdbapi.com/?s=spider&apikey=fa736982'
@@ -41,7 +42,7 @@ const SearchContainer = () => {
       <Search search={search} />
       <div className='movie-search-list'>
         {loading && !errorMessage
-        ? (<span>loading...</span>)
+        ? (<Loading />)
         : errorMessage 
         ? (<div>{errorMessage}</div>) 
         : (movies.map((movie, index) => (
